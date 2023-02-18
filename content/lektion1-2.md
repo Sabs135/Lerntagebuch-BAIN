@@ -16,8 +16,8 @@ Als Sprache wird Markdown verwendet. Ich hatte bisher schon oft von Markdown gel
 Zwei Klassenkameraden, welche bereits vertiefte Kenntnisse über die Inhalte des heutigen Vormittags hatten, konnten den Vormittag bereits für die Erstellung ihres Blogs nutzen. Sie waren auch die ersten, welche ihre Blogs in die Liste des gemeinsamen HedgeDoc Dokuments schrieben. Da sie es mit Github versuchten, wollten auch ich und meine Sitznachbarinnen es damit versuchen. Wir hatten einige Startschwierigkeiten und befürchteten, dass Github eventuell zu viel Aufwand generieren würde. Bevor wir zu viel Zeit in die Erstellung eines Github-Blogs verwendeten, wollten wir einen Blick auf HedgeDoc werfen. Aufgrund des des heutigen Blogs fanden wir drei, dass dies auch eine gute Option wäre. Jedoch stellte bereits die Registrierung eine erste Schwierigkeit dar. Die Registrierung über die Webseite der [GWDG](https://pad.gwdg.de/) war leider nicht möglich. Um sich darüber registrieren zu können, verlangt es eine Academic ID. Die Liste der Institutionen zeigte nur solche in Deutschland an. Ein Login mit der sonst an vielen Orten möglichen [SWITCHaai]( https://www.switch.ch/aai/) war nicht möglich. 
 
 Alternativ fanden wir die Möglichkeit HedgeDoc auch in einer Demo-Version zu nutzen. Die URL dafür war auch eine andere. Vergleiche:
-Von GWDG: https://pad.gwdg.de/ 
-Demo-Version, ohne GWDG: https://demo.hedgedoc.org/
+* Von GWDG: https://pad.gwdg.de/   
+* Demo-Version, ohne GWDG: https://demo.hedgedoc.org/
 
 Zu diesem Zeitpunkt war das Klassenzimmer praktisch leer, da fast alle bereits nach Hause gegangen waren. Sie hatten den Blog entweder bereits erfolgreich erstellt oder wollten dies in Ruhe zu Hause machen. Der Dozent recherchierte netterweise was die Demo-Version in diesem Fall genau bedeuten würde. Es wäre grundsätzlich möglich die Demoversion zu nutzen, wenn wir nach jeder Bearbeitung einen Download der Seite machen würden. Dies, damit nicht plötzlich unser ganzer Blog weg wäre. Eine Garantie, dass der Blog unverändert aktiv bleibt, existiert bei der Demoversion nämlich nicht. 
 
