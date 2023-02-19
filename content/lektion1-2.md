@@ -7,7 +7,7 @@ Uns wurde das Schaubild zu den Lehrinhalten aufzeigt und erklärt. Dieses werden
  
 _*OAI-PMH: Open Archives Initiative Protocol for Metadata Harvesting. Ein festgelegter Standard des OAI_  
 
-![Schaubild](https://user-images.githubusercontent.com/92395466/219941621-da392eed-b847-4772-a2d1-7793d1ea995d.png)
+![Schaubild](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Schaubild.png?raw=true)
 
 
 Die auf der linken Seite angezeigten Katalogisierungssysteme sind folgende:
@@ -21,8 +21,8 @@ Die durch die Schnittstelle geernteten Daten existieren in je einer XML-Datei in
 > Neubauer, W. & Piguet, A. (2014). Das Wissensportal der Bibliothek der ETH Zürich. In K. Söllner & W. Sühl-Strohmenger (Ed.), _Handbuch Hochschulbibliothekssysteme: Leistungsfähige Informationsinfrastrukturen für Wissenschaft und Studium_ (pp. 439-454). Berlin, München, Boston: De Gruyter Saur. https://doi.org/10.1515/9783110310092-041
 
 
-### Crashkurs in Terminalbefehlen, Github, Git und Codespace
-Da die Mehrheit der ganze Klasse, ich eingeschlossen, nicht ganz fit im Umgang den oben genannten Tools oder Anwendungen waren, gab es zum Einstieg des Nachmittags eine kurze Wiederholung. Die letzte Anwendung von Terminalbefehlen liegt bei mir etwa ein Jahr zurück. Meine Kenntnisse zu Github und Git waren bisher auch eher oberflächlich. Codespace hingegen war komplett neu. Ich nutzte bisher immer heruntergeladene Software Studio Visual Code. Dass es dafür nun auch eine Online-Version gibt, war neu für mich. Da ich für meinen Major bereits zwei Kurse lang die Software genutzt habe, war die Oberfläche selbst aber nicht neu für mich. 
+### Crashkurs in Terminalbefehlen, Github, Git und Codespaces
+Da die Mehrheit der ganze Klasse, ich eingeschlossen, nicht ganz fit im Umgang den oben genannten Tools oder Anwendungen waren, gab es zum Einstieg des Nachmittags eine kurze Wiederholung. Die letzte Anwendung von Terminalbefehlen liegt bei mir etwa ein Jahr zurück. Meine Kenntnisse zu Github und Git waren bisher auch eher oberflächlich. [Codespaces](https://github.com/codespaces) hingegen war komplett neu. Ich nutzte bisher immer heruntergeladene Software Studio Visual Code. Dass es dafür nun auch eine Online-Version gibt, war neu für mich. Da ich für meinen Major bereits zwei Kurse lang die Software genutzt habe, war die Oberfläche selbst aber nicht neu für mich. 
 
 
 ### HedgeDoc und Markdown
@@ -34,9 +34,8 @@ Beim Schreiben von diesem Text hier, war ich bei einzelnen Punkten aber bereits 
 
  
 ### Die Suche nach dem passenden Blog-Portal
-
 Zwei Klassenkameraden, welche bereits vertiefte Kenntnisse über die Inhalte des heutigen Vormittags hatten, konnten den Vormittag bereits für die Erstellung ihres Blogs nutzen. Sie waren auch die ersten, welche ihre Blogs in die Liste des gemeinsamen HedgeDoc Dokuments schrieben. Da sie es mit Github versuchten, wollten auch ich und meine Sitznachbarinnen es damit versuchen. Wir hatten einige Startschwierigkeiten und befürchteten, dass Github eventuell zu viel Aufwand generieren würde. Bevor wir zu viel Zeit in die Erstellung eines Github-Blogs verwendeten, wollten wir einen Blick auf HedgeDoc werfen. Aufgrund des heutigen Blogs fanden wir drei, dass dies auch eine gute Option wäre. Jedoch stellte bereits die Registrierung eine erste Schwierigkeit dar. Die Registrierung über die Webseite der [GWDG](https://pad.gwdg.de/) war leider nicht möglich. Um sich darüber registrieren zu können, verlangt es eine Academic ID (siehe Meldung auf nachfolgendem Screenshot). Im dargestellten Dropdown waren zwar diverse Einrichtungen aufgeführt, aber es waren ausschliesslich welche aus Deutschland zu finden. Die Registrierung mit der E-Mail der FHGR oder mit der sonst an vielen Orten verfügbaren [SWITCHaai]( https://www.switch.ch/aai/) war nicht möglich.  
-![Darstellung GWDG](https://user-images.githubusercontent.com/92395466/219939264-2f4e3622-0777-4c1d-bb8c-5808a2de3eea.png)
+![Darstellung GWDG](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/GWDG.png?raw=true)
 
 Alternativ fanden wir die Möglichkeit HedgeDoc auch in einer Demo-Version zu nutzen. Die URL dafür war auch eine andere. Vergleiche:
 * Von GWDG: <https://pad.gwdg.de/>   
