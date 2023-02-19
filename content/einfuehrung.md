@@ -10,4 +10,4 @@ Im Verlauf des Studiums durften wir diverse Sprachen/Programmiersprachen lernen 
 ### Ausblick
 Obwohl ich meine Zukunft zwar nicht wirklich im Archiv oder Bibliotheksbereich sehe, bin ich trotzdem positiv für das Modul gestimmt. Ich bin stets offen neue Dinge zu lernen und vermutlich hilft es mir auch, die bisher noch ein wenig diffusen Bibliotheks- und Archivbegriffe (wie z.B. MARC21 usw.) am Ende des Kurses besser erfassen zu können und die technischen Hintergründe zu verstehen. Zudem erhoffe ich mir auch, dass meine "Beziehung" zu Github und auch das Verständnis für Github im Laufe des Semesters ebenfalls verbessert werden kann.
 
-[nach oben](einführung)
+[nach oben](einfuehrung)
