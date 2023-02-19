@@ -5,7 +5,7 @@ Wie bereits kurz in der Einführung angetönt, sind die Kenntnisse der einzelnen
 ### Schaubild
 Uns wurde das Schaubild zu den Lehrinhalten aufzeigt und erklärt. Dieses werden wir im Lauf des Semesters immer wieder sehen und daher werden die Details der einzelnen Fragmente auch später nochmals besprochen. Vereinfacht in einem Satz zeigt das Schaubild die "Datenernte" (mittels OAI-PMH-Schnittstelle*) verschiedener Katalogisierungssysteme (Koha, ArchiveSpace, DSpace) und wie diese am Ende in einem Discovery System / Suchindex landen. 
  
-_*OAI-PMH: Open Archives Initiative Protocol for Metadata Harvesting. Ein festgelegter Stand des OAI_  
+_*OAI-PMH: Open Archives Initiative Protocol for Metadata Harvesting. Ein festgelegter Standard des OAI_  
 
 ![Schaubild](https://user-images.githubusercontent.com/92395466/219941621-da392eed-b847-4772-a2d1-7793d1ea995d.png)
 
