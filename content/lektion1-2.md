@@ -1,4 +1,4 @@
-## Lerneinheit 1 & 2: Technische Grundlagen
+## Lerneinheit 1 und 2 - Technische Grundlagen
 
 Wie bereits kurz in der Einführung angetönt, sind die Kenntnisse der einzelnen Personen in Bezug auf Bibliotheks- und Archivsoftware unterschiedlich. Dies spielt aber keine Rolle, denn es sollen die Grundlagen vermittelt werden. Die Grundlagenvermittlung zeigte sich auch bei den Themen der zwei Lerneinheiten des heutigen Tags: **Technische Grundlagen 1 und 2**. 
 
@@ -46,3 +46,6 @@ Der Dozent recherchierte netterweise für uns, was die Demo-Version in diesem Fa
 
 Nun schreibe ich meinen Blog auch in Github und habe es zumindest geschafft eine Seite zu erstellen, welche navigierbar und lesbar ist. Ich denke, dass ich dies somit dabei belassen und am Blog in Github festhalten werde.  
 
+
+
+[nach oben](#lerneinheit-1-und-2---technische-grundlagen)
