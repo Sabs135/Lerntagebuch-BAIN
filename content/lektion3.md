@@ -14,14 +14,14 @@ Heute gab es zu Beginn einen Einstieg mit Literaturempfehlungen. Vor allem der L
 ### Eintauchen in OpenRefine
 Nach dem Blick auf die Literatur gab es einen Praxisteil, der uns wie letztes Mal auf Codespaces führte. Alle Studierenden öffneten das Repository auf Codespaces und mit dem Startbefehl im Terminal (siehe unten) sowie der Portfreigabe (siehe unten) öffneten wir schliesslich OpenRefine (mit der URL, die neben der Portfreigabe eingeblendet ist).
 
-![Startbefehl für OpenRefine](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Terminal%20OpenRefine.png)
+![Startbefehl für OpenRefine](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Terminal%20OpenRefine.png)  
 ![Portfreigabe](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Portfreigabe.png)
 
 Ich hatte bisher noch nie von OpenRefine gehört. Auch im bisherigen Studium war es noch nie Thema. Daher fand ich die Einführung, welche daraufhin folgte sehr gut und passend. 
 
 Ich war sehr froh, dass wir eine URL erhielten, mit welcher wir eine CSV-Datei laden konnten und somit auch selbst etwas damit machen konnten. Es gab auch einen kleinen Exkurs zu CSV, was für mich nicht viel Neues ergab. CSV-Dateien hatten wir bereits im ARIS-Modul, aber auch in meinem früheren Job arbeite ich immer mal wieder mit CSV-Dateien. Aber nochmals zurück zum Ausprobieren mit den Daten: mir fällt es immer viel einfacher, wenn ich das Gesagte auch gleich ausprobieren kann. Auch wenn es nur etwas "banales" ist, wie Menüs durchklicken oder um sehen zu können, was sich hinter dem Filtersymbol genau verbirgt. Daher fand ich diese Möglichkeit super. 
 
-So sieht OpenRefine mit der importierten Datei aus:
+So sieht OpenRefine mit der importierten Datei aus:  
 ![Ansicht OpenRefine](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Open%20Refine%20neu.png)
 
 Uns wurden dabei diverse Dinge gezeigt, welche in OpenRefine gemacht werden können. Beispielweise wurde ein Blick auf die Facetten geworfen. Über die Spalte Language > Facet > Text Facet warfen wir einen Blick auf die Textfacetten für die Sprache. Es war zu sehen, dass es Facetten für EN, ES und FR mit jeweils nur mit 2 Buchstaben gab, aber auch einen weiteren mit English. Durch den Klick auf Edit und der Umbenennung von English auf EN, wurden die zwei Facetten zusammengefasst. 
