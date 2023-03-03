@@ -25,7 +25,7 @@ Ich war sehr froh, dass wir eine URL erhielten, mit welcher wir eine CSV-Datei l
 So sieht OpenRefine mit der importierten Datei aus:  
 ![Ansicht OpenRefine](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Open%20Refine%20neu.png?raw=true)
 
-Uns wurden dabei diverse Dinge gezeigt, welche in OpenRefine gemacht werden können. Beispielweise wurde ein Blick auf die Facetten geworfen. Über die Spalte Language > Facet > Text Facet warfen wir einen Blick auf die Textfacetten für die Sprache. Es war zu sehen, dass es Facetten für EN, ES und FR mit jeweils nur mit 2 Buchstaben gab, aber auch einen weiteren mit English. Durch den Klick auf Edit und der Umbenennung von English auf EN, wurden die zwei Facetten zusammengefasst. 
+Uns wurden dabei diverse Dinge gezeigt, welche in OpenRefine gemacht werden können. Über die Spalte _Language > Facet > Text Facet_ warfen wir beispielsweise einen Blick auf die Textfacetten für die Sprache. Es war zu sehen, dass es Facetten für EN, ES und FR mit jeweils nur mit 2 Buchstaben gab, aber auch einen weiteren mit English. Durch den Klick auf _Edit_ und der Umbenennung von English auf EN, wurden die zwei Facetten zusammengefasst. 
 
 | Vorher      | Nachher |
 | ----------- | ----------- |
@@ -38,8 +38,9 @@ Sehr gut, finde ich, dass wir immer wieder daran erinnert werden, dass Codespace
 
 ## Ergebnisse
 Zusammengefasst nehme ich aus der heutigen Lektion als Learning mit:
-* [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) : eine coole Seite mit Lehrmaterialen zu vielen unterschiedlichen Themen
-* das Kennenlernen von dem für mich komplett neuen OpenRefine
+* [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) : eine coole Seite mit Lehrmaterialen zu vielen unterschiedlichen Themen.
+* das Kennenlernen von dem für mich komplett neuen OpenRefine.
 
-
+  
+  
 [nach oben](#lerneinheit-3---openrefine)
