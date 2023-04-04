@@ -8,7 +8,7 @@ Das letzte Mal, als wir im Studium über die beiden Metadaten-Standards MARC21 u
 ....
 
 Wir warfen auch einen Blick auf die Daten in MARC21 und DublinCore. Ich fand es recht beeindruckend wie gut lesbar die Daten von DublinCore für einen Laien wie mich waren und wie schlecht bzw. mühsam es im Vergleich bei MARC21 war. Wir betrachteten die beiden... und verglichen sie:
-![Vergleiche MARC21 und DublinCore](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Marc21_DublinCore.png)
+![Vergleiche MARC21 und DublinCore](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Marc21_DublinCore.png?raw=true)
 
 ### Koha
 Wie bereits kurz erwähnt, handelt es sich bei Koha um eine Open Source Software, die in Bibliotheken eingesetzt wird. In der Erwartung, dass es sich beim Namen um ein Akronym handelte, wurde ich auf der [Wikipedia-Seite zu Koha](https://de.wikipedia.org/wiki/Koha_(Bibliothekssoftware)) eines besseren belehrt. Der Name der in Neuseeland entwickelten Software stammt vom Māori-Wort _„Koha“_. Gemäss Wikipedia: "In der Kultur der Māori ist das ein Geschenk, bei dem man ein Gegengeschenk erwartet." 
