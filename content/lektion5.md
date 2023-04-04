@@ -4,7 +4,7 @@ Heute widmen wir uns dem zweiten Teil des Themas "Funktion und Aufbau von Biblio
 
 ## Notizen (alles noch auszuformulieren):
 
-## Schnittstelle SRU 
+## Schnittstelle SRU -> ggf. rausstreichen...
 Kurzes Kennenlernen der Schnittstelle SRU. Dieses Akronym steht für "Search/Retrieve via URL" und ist der Nachfolger der Schnittstelle Z39.50. Das Merkmal von SRU ist, dass sie auch über das übliche Internetprotokoll funktioniert, sprich keine Spezialsoftware nötig, und kann so über den gewöhnlichen Browser geöffnet werden.
 
 ## Erneutes Ausprobieren mit Koha
