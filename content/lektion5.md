@@ -17,8 +17,16 @@ Bei der Übung zu OAI-PMH war ich ziemlich verwirrt. Mal abgesehen davon, dass e
 Mögliches Bild: Errormeldung_koha
 
 
+Interessante Erklärung zu den Bibliothekssystemen. 
+Viele der namen bereits einmal gehört, aber war mir nicht bekannt, wie diese zusammengehören bzw. welche Entwicklung aktuell stattfindet. Für mich war dies ein interessanter Exkurs, in ein Thema, welches mich vermutlich danach nicht mehr gross tangieren wird (nicht in dem Bereich tätig).
+Ebenso verhält es sich mit dem Thema zu Alma.
+-> Exkurs auf weitere Quellen??
+
+
+
 
 Meine Learnings:
 
 - wie man Emojis in Markdown erstellt :sunglasses: :smile:  
+- 
 [nach oben](#lerneinheit-5---funktion-und-aufbau-von-bibliothekssystemen-2)
