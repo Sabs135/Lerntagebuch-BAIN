@@ -1,14 +1,14 @@
 # Lerneinheit 5 - Funktion und Aufbau von Bibliothekssystemen 2
 
-Heute widmen wir uns dem zweiten Teil des Themas "Funktion und Aufbau von Bibliothekssystemen" und wie immer: [das gemeinsame Dokument](https://pad.gwdg.de/NT85lsv_QIWjmPs18rQM_g). 
+Es geht weiter mit Teil 2 von "Funktion und Aufbau von Bibliothekssystemen". Siehe: [das gemeinsame Dokument](https://pad.gwdg.de/NT85lsv_QIWjmPs18rQM_g). 
 
 ## Koha-Fortsetzung und erneute Hinweise zur Usability
-Wie bereits bei der letzten Nutzung mit Koha, stiessen mir auch heute wieder Usability Probleme ins Auge. Bei der einen Aufgabe, in welchem wir ein bestimmtes Medium aussuchen konnten, erschien die unten gezeigte Übersicht. Der **"Aktionen"-Button** in der Zeile rechts suggiert, dass dort geklickt werden sollte für die Auswahl. Ich klickte zufällig zu früh und sah dadurch, dass man eigentlich irgendwo in die Zeile klicken konnte und so bereits die Aktion ausgewählt werden konnte. Schlimm ist dies zwar nicht, aber es ergibt nicht wirklich Sinn, da dies eigentlich nur beim Button geschehen sollte. 
+Wie bereits bei der letzten Nutzung mit Koha, stiessen mir wieder Usability Probleme ins Auge. Bei der einen Aufgabe, in welchem wir ein bestimmtes Medium aussuchen konnten, erschien die unten gezeigte Übersicht. Der **"Aktionen"-Button** in der Zeile rechts suggiert, dass dort geklickt werden sollte für die Auswahl. Ich klickte zufällig zu früh und sah, dass man eigentlich irgendwo in die Zeile klicken konnte und so bereits die Aktion ausgewählt werden konnte. Schlimm ist dies zwar nicht, aber es irritiert, da dies eigentlich nur beim Button geschehen sollte. 
 
 * Menü auf dem Aktionen-Button:  
 ![Auswahl Aktion Nr 1](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Auswahl_Aktion_1.jpg?raw=true)  
 
-* Und hier, wenn man irgendwo sonst in der Zeile klickt:  
+* Und wenn man irgendwo sonst in der Zeile klickt:  
 ![Auswahl Aktion Nr 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Auswahl_Aktion_2.jpg?raw=true)
 
 Bei der anschliessenden Übung zu OAI-PMH war ich ziemlich verwirrt. Mal abgesehen davon, dass es aus Usability-Sicht (mal wieder 😊) nicht gut ist, dass die Startansicht gleich eine dicke rote Fehlermeldung zeigt (siehe Bild), erschien mein erstelltes Medium einfach nicht. Oder eher: ich verstand überhaupt nicht, wie dies zu finden ist. 
@@ -25,8 +25,6 @@ Das im Unterricht erwähnte Journal von Renke Siems bietet hier eine interessant
 
 Hier stellt sich die Frage, ob Nutzende dieser Datensammlung, welche durch solche Systeme betrieben wird, überhaupt entkommen können. Gemäss Siems ist bei den grossen Anbietern bereits eine "Hinwendung zu einem Data-Analytics-Geschäftsmodell" (Siems, 2022, S. 17) zu sehen. Es bleibt also spannend wie sich dies auch in Zukunft entwickeln wird. 
 
-## Learnings von heute:
-- die aktuelle Situation der Bibliothekssysteme auf dem Markt
 
 **Quellen:**  
 Nielsen, J. (2020). _10 Usability Heuristics for User Interface Design._ [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
