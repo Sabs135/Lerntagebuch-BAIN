@@ -2,38 +2,37 @@
 
 Heute widmen wir uns dem zweiten Teil des Themas "Funktion und Aufbau von Bibliothekssystemen" und wie immer: [das gemeinsame Dokument](https://pad.gwdg.de/NT85lsv_QIWjmPs18rQM_g). 
 
-## Notizen (alles noch auszuformulieren):
-
-## Schnittstelle SRU -> ggf. rausstreichen...
-Kurzes Kennenlernen der Schnittstelle SRU. Dieses Akronym steht für "Search/Retrieve via URL" und ist der Nachfolger der Schnittstelle Z39.50. Das Merkmal von SRU ist, dass sie auch über das übliche Internetprotokoll funktioniert, sprich keine Spezialsoftware nötig, und kann so über den gewöhnlichen Browser geöffnet werden.
-
-## Erneutes Ausprobieren mit Koha
-
-Natürlich habe ich wieder Kritik an der Usability von Koha. Bei der einen Aufgabe, in welchem wir ein bestimmtes Medium aussuchen konnten, erschien die unten gezeigte Übersicht. Der "Aktions-Button" in der Zeile rechts suggiert, dass man dort klicken sollte um eine Auswahl zu treffen. Ich klickte zufällig zu früh und sah dadurch, dass man eigentlich irgendwo in die Zeile klicken konnte und so bereits die Aktion ausgewählt werden konnte. Das ergibt nicht so wirklich Sinn, da dies eigentlich nur beim Button geschehen sollte.  
+## Erneutes Ausprobieren mit Koha und erneute Hinweise zur Usability
+Wie bereits bei der letzten Nutzung mit Koha, stiessen mir auch heute wieder Usability Probleme ins Auge. Bei der einen Aufgabe, in welchem wir ein bestimmtes Medium aussuchen konnten, erschien die unten gezeigte Übersicht. Der "Aktions-Button" in der Zeile rechts suggiert, dass man dort klicken sollte um eine Auswahl zu treffen. Ich klickte zufällig zu früh und sah dadurch, dass man eigentlich irgendwo in die Zeile klicken konnte und so bereits die Aktion ausgewählt werden konnte. Das ergibt nicht so wirklich Sinn, da dies eigentlich nur beim Button geschehen sollte. Dies ist zwar nicht schlimm, aber war meiner Meinung nach doch etwas irritierend.   
 * Hier die Ansicht mit dem Menü auf dem Aktions-Button:
 ![Auswahl Aktion Nr 1](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Auswahl_Aktion_1.jpg?raw=true)  
 
 * Und hier die Ansicht des Menüs, wenn man irgendwo sonst in der Zeile klickt: 
 ![Auswahl Aktion Nr 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Auswahl_Aktion_2.jpg?raw=true)
 
-
-_Streichen.......Erstaunlich wie viele Felder in MARC21 abgefüllt werden können (9 Laschen und dazu noch diverse Kategorien)
-Mögliches Bild: Felder_MARC21_
-
 Bei der Übung zu OAI-PMH war ich ziemlich verwirrt. Mal abgesehen davon, dass es aus Usability-Sicht (mal wieder :sweat_smile:) nicht gut ist, dass die Startansicht gleich eine dicke rote Fehlermeldung zeigt (siehe Bild), erschien mein erstelltes Medium einfach nicht. Oder anders formuliert: ich verstand überhaupt nicht, wie dies zu finden sein sollte. 
-![Errormeldung in Koha](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Errormeldung_Koha.png?raw=true)
-Ich suchte nach Angaben um die URL anzupassen, jedoch ohne Erfolg. Die einzelnen Menüpunkte gaben auch nicht gerade Hinweise dazu, was zu tun wäre. Eine Kollegin schrieb in unsere Chatgruppe, da es nicht funktionierte. Wie sich herausstellte, klappte es bei keinem von uns - das war beruhigend. Durch die Erklärung im Unterricht wurde der Knoten gelöst und ich fand mein Medium schliesslich doch noch. Ich hätte wohl ein bisschen mehr Metadaten eingeben können. Dies hatte ich nciht gemacht, so dass die Angaben meines "eBooks" extrem minimalisitisch waren.  
+![
+meldung in Koha](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Errormeldung_Koha.png?raw=true)
+Ich suchte nach Angaben um die URL anzupassen, jedoch ohne Erfolg. Die einzelnen Menüpunkte gaben auch nicht gerade Hinweise dazu, was zu tun wäre. Gemäss Jakob Nielsen (2020), welcher die bekannten "10 Usability Heuristiken für das User Interface Design" formulierte, wäre hier beispielsweise Punkt 9 verletzt. Dieser besagt: "#9: Help users recognize, diagnose, and recover from errors" (Nielsen, 2020). Dabei wird ausgeführt, dass den Usern beschrieben werden soll, was genau schief gelaufen ist und das vor allem in einer Sprache, die von den Usern verstanden wird. Zwar steht in der Errormeldung "no verb supplied", doch dies entspricht eher dem technischen Fachjargon, welches gemäss Nielsen ebenfalls vermieden werden soll. 
+
+Eine Kollegin schrieb in unsere Chatgruppe, da es nicht funktionierte. Wie sich herausstellte, klappte es bei keinem von uns - das war beruhigend. Durch die Erklärung im Unterricht wurde der Knoten gelöst und ich fand mein Medium schliesslich doch noch. Ich hätte wohl ein bisschen mehr Metadaten eingeben können. Dies hatte ich nicht gemacht, so dass die Angaben meines "eBooks" extrem minimalisitisch waren.  
 
 ## Bibliothekssysteme auf dem Markt
-Interessante Erklärung zu den Bibliothekssystemen. 
-Viele der namen bereits einmal gehört, aber war mir nicht bekannt, wie diese zusammengehören bzw. welche Entwicklung aktuell stattfindet. Für mich war dies ein interessanter Exkurs, in ein Thema, welches mich vermutlich danach nicht mehr gross tangieren wird (nicht in dem Bereich tätig).
--> Exkurs auf weitere Quellen??
+Den abschliessenden Unterrichtsblock zu den Bibliothekssystemen auf dem Markt fand ich im Grundsatz sehr interessant. Das "Erfassen" der gesamten Thematik finde ich nicht ganz einfach, da es Teil einer Welt ist, mit der ich fast gar nichts zu tun habe. Von den Namen her sind mir einige aufgrund des Studiums mittlerweile geläufig (Aleph, Koha) oder auch die Firmen, die dahinter stecken (Ex Libris, EBSCO, usw). Alles weitere, und damit auch die Entwicklungen wie der Weg hin zu Monopolstellungen, gingen an mir vorbei. 
 
+Das im Unterricht erwähnte Journal von Renke Siems bietet hier eine interessante Vertiefung in das Thema dar und half mir, als Laien, ein wenig tiefer einzutauchen. 
 
-...und zur Abrundung: mein Codespace, den wir heute zwar nur kurz benutzt hatten, hiess heute "fuzzy adventure". Auch nicht schlecht. 
+So erwähnt Siems:  
+>"Bibliothekssysteme sind aus der Sicht von Data Analytics hochinteressante Objekte, weil auch in ihnen echte Daten echter Menschen stecken – nämlich individualisierte Personendaten aller Nutzer*innen, verbunden mit ihrem Mediennutzungsverhalten und zwar auch dessen Teil, der sich von außen nicht messen lässt (Ausleihe), sowie den darauf gründenden Finanzierungsströmen der Bibliothek." (Siems, 2022, S. 9).
 
-Meine Learnings des heutigen Tages:
+Hier stellt sich die Frage, ob Nutzende dieser Datensammlung, welche durch solche Systeme betrieben wird, überhaupt entkommen können. Gemäss Siems ist bei den grossen Anbietern bereits eine "Hinwendung zu einem Data-Analytics-Geschäftsmodell" (Siems, 2022, S. 17) zu sehen. Es bleibt also spannend wie sich dies auch in Zukunft entwickeln wird. 
+
+## Meine Learnings des heutigen Tages:
 - wie man Emojis in Markdown erstellt :sunglasses: :smile:  
 - die aktuelle Situation der Bibliothekssysteme auf dem Markt
+
+Quellen:  
+Nielsen, J. (2020). _10 Usability Heuristics for User Interface Design._ https://www.nngroup.com/articles/ten-usability-heuristics/
+Siems, R. (2022). Das Lesen der Anderen: Die Auswirkungen von User Tracking auf Bibliotheken. _O-Bib. Das Offene Bibliotheksjournal / Herausgeber VDB, 9_(1), 1–25. https://doi.org/10.5282/o-bib/5797
 
 [nach oben](#lerneinheit-5---funktion-und-aufbau-von-bibliothekssystemen-2)
