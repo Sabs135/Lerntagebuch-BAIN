@@ -26,7 +26,7 @@ Bei meiner ersten Akte klappte das erstellen als Child nicht. Wobei es nicht am 
 ![ArchivesSpace](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/ArchivesSpace.png?raw=true)
   
 **Quellen:**
-International Council on Archives. (2021). _Records in Contexts - Conceptual Model._ Verfügbar unter: https://www.ica.org/en/records-in-contexts-conceptual-model
+International Council on Archives (ICA). (2021). _Records in Contexts - Conceptual Model._ Verfügbar unter: [https://www.ica.org/en/records-in-contexts-conceptual-model](https://www.ica.org/en/records-in-contexts-conceptual-model)
 
 
 [nach oben](#lerneinheit-6---funktion-und-aufbau-von-archivsystemen)
