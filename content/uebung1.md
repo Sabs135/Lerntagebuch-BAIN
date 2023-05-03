@@ -10,7 +10,7 @@ Nach dem Login fiel mir sogleich auf, dass die Navigationsleiste zusätzliche Ic
 ## Die Erstellung eines Records
 Es war gut ersichtlich, dass über das + Zeichen ein neues Objekt erstellt werden konnte. Bei ArchivesSpace mit dem Text "Create" war dies auch klar. 
 Bei beiden hatte ich aber Mühe die passende Auswahl darunter zu treffen. Ich entschied mich hier für "Accession record".  
-![Formular ArchivesSpace](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/atom_add?raw=true)
+![Auswahl bei Add](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/atom_add.png?raw=true)
 
 Ich glaube das Formular bei ArchivesSpace war detailreicher und grösser. Die Unterteilung des Formulars fand ich bei ArchivesSpace viel aussagekräftiger und klarer im Vergleich zu AtoM.
 
@@ -22,3 +22,5 @@ Die Felder in AtoM finde ich schlechter als bei ArchivesSpace. Was soll ich in d
 
 ## Abschliessend
 Dass AtoM zudem immer zur vollen Stunde alle Daten löscht fand ich etwas nervig. So muss man die Erstellung vorab planen.
+
+[nach oben](#übung-1---atom-demo-als-vergleich-zu-srchivesspace)
