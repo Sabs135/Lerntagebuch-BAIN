@@ -23,4 +23,4 @@ Die Felder in AtoM finde ich schlechter als bei ArchivesSpace. Was soll ich in d
 ## Abschliessend
 Dass AtoM zudem immer zur vollen Stunde alle Daten löscht fand ich etwas nervig. So muss man die Erstellung vorab planen.
 
-[nach oben](#übung-1---atom-demo-als-vergleich-zu-srchivesspace)
+[nach oben](#übung-1---atom-demo-als-vergleich-zu-archivesspace)
