@@ -21,6 +21,6 @@ Ich glaube das Formular bei ArchivesSpace war detailreicher und grösser. Die Un
 Die Felder in AtoM finde ich schlechter als bei ArchivesSpace. Was soll ich in die grossen Fliesstextfelder einfüllen und wie detailliert? Hier wird aber von der _"Source of aquisition or transfer, and date and method of aquisition"_ gefragt. Warum gibt es hier nicht einfach pro Angabe ein Eingabefeld? Dasselbe bei den restlichen Feldern. Es lässt mich irgendetwas speichern (was ich auch gemacht habe), ohne dass ich wirklich korrekte oder vollständige Daten eingegeben habe. Hier wäre eine bessere Steuerung durch das Formular besser (z.B. Datumfeld für Datumseingaben). Diese Steuerung hätte zum Ziel, dass so dass einerseits weniger Fehleingaben durch Nutzende entstehen und andererseits konsistentere Angaben resultieren.
 
 ## Abschliessend
-Dass AtoM zudem immer zur vollen Stunde alle Daten löscht fand ich etwas nervig. So muss man die Erstellung vorab planen.
+Dass AtoM zudem immer zur vollen Stunde alle Daten löscht, fand ich etwas nervig. So muss man die Erstellung vorab planen.
 
 [nach oben](#übung-1---atom-demo-als-vergleich-zu-archivesspace)
