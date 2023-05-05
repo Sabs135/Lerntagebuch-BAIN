@@ -16,4 +16,17 @@ Daten in Archiveespaces angeschaut
 
 Dann Daten als MARCXML exportiert. Das XML wieder mit Archivesspace verglichen. 
 
+Ich fand es gut, dass im gemeinsamen Dokument nochmals das [Schaubild aus Lektion 1 & 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/content/lektion1-2.md) aufgeführt wurde. Das Bild hatte ich zwar noch im Kopf, aber nicht mehr die Inhalte. So führte es mir nochmals vor Augen, was wir bereits kennengelernt haben und was noch folgt, wie beispielsweise heute: DSpace. 
+
+Bild Statistik  zu Open-Access-Repositorien
+
+
+Community > Collection > einzelne Dokumente
+
+## Übungen mit DSpace
+
+Die Einstellung der Rechte verstand ich auf Anhieb nicht und hatte es nicht gemacht. Nach dem Hinweis des Dozierenden hatte ich die Rechte angepasst, aber offenbar zu stark eingegrenzt. Mein Beispiel war jenes mit der Botanik. Ich sah dann erst später, dass ich die Rechte nur der Rolle Collection Administrator gegeben hattte. Daher konnte der Dozent meine Collection nicht bearbeiten. Da wir uns für die Übung aber als Collection Administrator einloggen mussten, konnte ich problemlos für meine BForschungsdaten zur Botanik ein Dokument erstellen und hochladen. Es dauerte etwas bis 
+den Ort gefunden hatte, wo man eingereichte Dokumente "submitten" konnte. Dies klappte aber letztendlich und mein Dokument war schliesslich eingereicht. 
+
+
 [nach oben](#lerneinheit-7---repository-software-für-publikationen-und-forschungsdaten)
