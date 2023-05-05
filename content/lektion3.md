@@ -43,4 +43,4 @@ Zusammengefasst nehme ich aus der heutigen Lektion als Learning mit:
 
   
   
-[nach oben](#lerneinheit-3---metadaten-modellieren-und-schnittstellen-nutzen-1-(openrefine)
+[nach oben](#lerneinheit-3---metadaten-modellieren-und-schnittstellen-nutzen-1-openrefine
