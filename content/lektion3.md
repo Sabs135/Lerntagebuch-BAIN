@@ -1,4 +1,4 @@
-## Lerneinheit 3 - OpenRefine
+## Lerneinheit 3 - Metadaten modellieren und Schnittstellen nutzen 1 (OpenRefine)
 
 Heute stand eine neue Lerneinheit auf dem Plan und dazu gab es ein neues [gemeinsames Dokument](https://pad.gwdg.de/tql9ErMcQ1yd9FqMOj7TVw#). Das Thema des heutigen Tages war OpenRefine. 
 
@@ -43,4 +43,4 @@ Zusammengefasst nehme ich aus der heutigen Lektion als Learning mit:
 
   
   
-[nach oben](#lerneinheit-3---openrefine)
+[nach oben](#lerneinheit-3---metadaten-modellieren-und-schnittstellen-nutzen-1-(openrefine)
