@@ -16,6 +16,12 @@ Wir verliessen ArchivesSpace und gingen einen Schritt weiter. Ich fand es gut, d
 ## OpenAccess
 Bild Statistik  zu Open-Access-Repositorien
 
+Wie schon zu Beginn des Lerntagebuchs erwähnt, arbeite ich nicht im Bibliotheks- oder Archivebreich. Mit Open Access Software hatte ich daher im beruflichen Bereich bisher keine Erfahrung. Ich war neugierig, welche Software die verschienden Universitäten / Fachhochschulen in der Schweiz verwenden. Aus dem Grund klickte ich mich durch die Angaben auf [Open Directory of Open Access Repositories (OpenDOAR)](https://v2.sherpa.ac.uk/view/repository_by_country/Switzerland.software_name.html). DSpace, EPrints und invenio haben die meisten Einträge. 
+* die [Research Collection der ETH](https://www.research-collection.ethz.ch/) verwendet [DSpace](https://v2.sherpa.ac.uk/id/repository/150?template=opendoar)
+* das [Zurich Open Repository and Archive (ZORA) der UZH](https://www.zora.uzh.ch/) verwendet [EPrints](https://v2.sherpa.ac.uk/id/repository/885?template=opendoar) 
+* das Portal [Infoscience von der École polytechnique fédérale de Lausanne (EPFL)](https://infoscience.epfl.ch/) verwendet [invenio](https://v2.sherpa.ac.uk/id/repository/185?template=opendoar)
+
+Dieser Einblick, also welche Uni, Bibliothek usw. welche Software verwendet, hilft mir jeweils besser etwas zu merken. So kann ich einen Bezug zwischen einer bestehenden Software und der tatsächlicher Verwendung auf dem Markt erstellen. 
 
 ## DSpace
 Die Einstellung der Rechte verstand ich auf Anhieb nicht. Enstprechend hatte ich keine vergeben. Nach dem Hinweis des Dozierenden hatte ich die Rechte angepasst, aber offenbar zu stark eingegrenzt. Mein Beispiel war jenes mit der Botanik. Ich sah dann erst später, dass ich die Rechte nur der Rolle "Collection Administrator" gegeben hatte. Daher konnte der Dozent meine Collection nicht bearbeiten. Entschuldigung an dieser Stelle für die Verwirrung. Da wir uns für die Übung aber als Collection Administrator einloggen mussten, konnte ich problemlos für meine Forschungsdaten zur Botanik ein Dokument erstellen und hochladen. Es dauerte etwas bis den Ort gefunden hatte, wo man eingereichte Dokumente "submitten" konnte. Dies klappte aber letztendlich und mein Dokument, ein  "Dummy PDF", war schliesslich eingereicht. 
