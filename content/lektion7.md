@@ -2,31 +2,25 @@
 
 First things first: [das heutige gemeinsame Dokument](https://pad.gwdg.de/zOkWiaueTpesd8BPi1JM9w#)
 
-Da wir letztes Mal nicht ganz fertig wurden mit ArchivesSpaces, setzten wir diesen Bestandteil noch fort. Das Thema war: Import & Export. Beim ersten Mal muss ich mich entweder verklickt oder etwas falsch gemacht haben. Es erschien die Meldung "502 Bad Gateway", welche ich aber nicht auf Anhieb sah. Immerhin klappte es beim zweiten Versuch und der Import lud. Dadurch war ich etwas im Rückstand, als es bereits mit dem Unterricht weiterging. Ich hatte etwas Mühe das hochgeladene Repository zu finden. Diesen Teil hatte ich verpasst. Lag es evt. daran, dass ich vergessen hatte die "Publish"-Checkbox zu klicken? Nachdem ich diese aktivierte, fand ich das Repository auf jeden Fall. Den ersten Vergleich (Daten des Repository und das hochgeladene XML File) konnte ich wegen meinem Rückstand nicht selbst anschauen, sondern verfolgte einfach die Demo in Webex. 
-Immerhin war ich dann für den Export (als MARCXML) wieder soweit und konnte hier die Daten exportieren und auch selbst anschauen. Wie auch im Unterricht besprochen zeigten sich ein paar Lücken beim exportieren File. 
+## Import & Export in ArchivesSpace
+Da wir letztes Mal mit ArchivesSpaces nicht ganz fertig wurden, setzten wir den Teil zu Import & Export noch fort. Mein heutiger Codespace, welcher für den Start von ArchivesSpace nötig war, hiess _"stunning space waffle"_. Jedes Mal aufs Neue bin ich gespannt, welchen Namen ich erhalte. 
 
+Zum Import des XML Files von [The American Association of Industrial Editors](https://eadiva.com/2/sample-ead2002-files/) als EAD in ArchivesSpace:
+Beim ersten Mal muss ich mich entweder verklickt oder etwas falsch gemacht haben. Es erschien die Meldung "502 Bad Gateway", welche ich aber nicht auf Anhieb sah. Immerhin klappte es beim zweiten Versuch und der Import lud. Da ich es aber etwas zu spät sah, war ich etwas im Rückstand, als es bereits mit dem Unterricht weiterging. Ich hatte etwas Mühe das hochgeladene Repository zu finden. Diesen Teil hatte ich verpasst. Lag es evt. daran, dass ich vergessen hatte die "Publish"-Checkbox zu klicken? Nachdem ich diese aktivierte, fand ich das Repository auf jeden Fall. 
 
+Den ersten Vergleich (Daten des ursprünglichen XML Files und der importierten Daten im Repository) konnte ich wegen meinem Rückstand nicht selbst anschauen, sondern verfolgte einfach die Demo in Webex. Immerhin war ich dann für den Export (als MARCXML) wieder soweit und konnte hier die Daten exportieren und auch selbst anschauen. Wie auch im Unterricht besprochen zeigten sich ein paar Lücken beim exportieren File.
 
-Datensatz als XML runtergeladen. Als EAD hochgeladen.
-The American Association of Industrial Editors (AAIE) Records: raw XML file.
+## Erneuter Blick auf das Schaubild
+Wir verliessen ArchivesSpace und gingen einen Schritt weiter. Ich fand es gut, dass im gemeinsamen Dokument nochmals das [Schaubild aus Lektion 1 & 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/content/lektion1-2.md) aufgeführt wurde. Die Grafik hatte ich zwar noch schwach im Kopf, aber nicht mehr die Inhalte. So führte es mir nochmals vor Augen, was wir bereits kennengelernt haben und was noch folgt, wie beispielsweise heute: DSpace. 
 
-Daten verglichen -> was fehlt und was ist vorhanden?
-
-Daten in Archiveespaces angeschaut
-
-Dann Daten als MARCXML exportiert. Das XML wieder mit Archivesspace verglichen. 
-
-Ich fand es gut, dass im gemeinsamen Dokument nochmals das [Schaubild aus Lektion 1 & 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/content/lektion1-2.md) aufgeführt wurde. Das Bild hatte ich zwar noch im Kopf, aber nicht mehr die Inhalte. So führte es mir nochmals vor Augen, was wir bereits kennengelernt haben und was noch folgt, wie beispielsweise heute: DSpace. 
-
+## OpenAccess
 Bild Statistik  zu Open-Access-Repositorien
 
 
-Community > Collection > einzelne Dokumente
+## DSpace
+Die Einstellung der Rechte verstand ich auf Anhieb nicht. Enstprechend hatte ich keine vergeben. Nach dem Hinweis des Dozierenden hatte ich die Rechte angepasst, aber offenbar zu stark eingegrenzt. Mein Beispiel war jenes mit der Botanik. Ich sah dann erst später, dass ich die Rechte nur der Rolle "Collection Administrator" gegeben hatte. Daher konnte der Dozent meine Collection nicht bearbeiten. Entschuldigung an dieser Stelle für die Verwirrung. Da wir uns für die Übung aber als Collection Administrator einloggen mussten, konnte ich problemlos für meine Forschungsdaten zur Botanik ein Dokument erstellen und hochladen. Es dauerte etwas bis den Ort gefunden hatte, wo man eingereichte Dokumente "submitten" konnte. Dies klappte aber letztendlich und mein Dokument, ein  "Dummy PDF", war schliesslich eingereicht. 
 
-## Übungen mit DSpace
-
-Die Einstellung der Rechte verstand ich auf Anhieb nicht und hatte es nicht gemacht. Nach dem Hinweis des Dozierenden hatte ich die Rechte angepasst, aber offenbar zu stark eingegrenzt. Mein Beispiel war jenes mit der Botanik. Ich sah dann erst später, dass ich die Rechte nur der Rolle Collection Administrator gegeben hattte. Daher konnte der Dozent meine Collection nicht bearbeiten. Da wir uns für die Übung aber als Collection Administrator einloggen mussten, konnte ich problemlos für meine BForschungsdaten zur Botanik ein Dokument erstellen und hochladen. Es dauerte etwas bis 
-den Ort gefunden hatte, wo man eingereichte Dokumente "submitten" konnte. Dies klappte aber letztendlich und mein Dokument war schliesslich eingereicht. 
+Wie schon bei ArchivesSpace und AtoM sind mir die Kategorien nicht ganz klar oder verwirren mich. Bei DSpace lautet die Hierarchive: Community > Collection > einzelne Dokumente. Ich fand die Benennung in DSpace etwas speziell, aber mit der Übung hab ich es am Ende immerhin verstanden. 
 
 
 [nach oben](#lerneinheit-7---repository-software-für-publikationen-und-forschungsdaten)
