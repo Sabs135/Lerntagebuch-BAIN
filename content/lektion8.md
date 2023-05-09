@@ -11,7 +11,7 @@ Um keinen Datenverlust zu erhalten, wäre am besten keine Konvertierung zu mache
 **Transformation von Metadaten mit OpenRefine**
 Wie bereits in der [zweiten Lektion](lektion2.md) kam erneut OpenRefine zum Einsatz. Mit einer Übung betrachten wir die Konvertierung von CSV Daten nach MARCXML. 
 Im nachfolgenden Screenshot sieht man die beiden Daten. 
-![Übung in Open Refine](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/uebung_OpenRefine.png?raw)
+![Übung in Open Refine](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/uebung_OpenRefine.png?raw=true)
 
 Auch in der Darstellung mit MARCXML sind die Daten gut und klar erkennbar. Einige Elemente waren ein wenig eigenartig auf den ersten Blick. Ein Beispiel dafür war, dass die Autoren einfach gesplittet wurden und Autor Nr 1 das Feld 100 erhielt und alle anderen das Feld 700. 
 
