@@ -1,8 +1,8 @@
-# Lerneinheit 7 - Repository-Software für Publikationen und Forschungsdaten
+## Lerneinheit 7 - Repository-Software für Publikationen und Forschungsdaten
 
 First things first: [das heutige gemeinsame Dokument](https://pad.gwdg.de/zOkWiaueTpesd8BPi1JM9w#)
 
-## Import & Export in ArchivesSpace
+### Import & Export in ArchivesSpace
 Da wir letztes Mal mit ArchivesSpaces nicht ganz fertig wurden, setzten wir Import & Export-Teil  fort. 
 
 Zum Import des XML Files von [The American Association of Industrial Editors](https://eadiva.com/2/sample-ead2002-files/) als EAD in ArchivesSpace:
@@ -10,10 +10,10 @@ Beim ersten Mal muss ich wohl etwas falsch gemacht haben. Es erschien die Meldun
 
 Den ersten Vergleich (Daten des ursprünglichen XML Files und der importierten Daten im Repository) konnte ich wegen meinem Rückstand nicht selbst anschauen, sondern verfolgte einfach die Demo in Webex. Immerhin war ich dann für den Export (als MARCXML) wieder soweit und konnte hier die Daten exportieren und auch selbst anschauen. Wie auch im Unterricht besprochen zeigten sich ein paar Lücken beim exportieren File.
 
-## Erneuter Blick auf das Schaubild
+### Erneuter Blick auf das Schaubild
 Wir verliessen ArchivesSpace und gingen einen Schritt weiter. Ich fand es gut, dass im gemeinsamen Dokument nochmals das [Schaubild aus Lektion 1 & 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/content/lektion1-2.md) aufgeführt wurde. Die Grafik hatte ich zwar noch schwach im Kopf, aber nicht mehr die Inhalte. So führte es mir nochmals vor Augen, was wir bereits kennengelernt haben und was noch folgt, wie beispielsweise heute: DSpace. 
 
-## OpenAccess
+### OpenAccess
 Wie schon zu Beginn des Lerntagebuchs erwähnt, arbeite ich nicht im Bibliotheks- oder Archivebreich. Mit Open Access Software habe ich bisher keine Erfahrung. Ich war neugierig, welche Software die verschienden Universitäten / Fachhochschulen in der Schweiz verwenden. Aus dem Grund klickte ich mich durch die Angaben auf [Open Directory of Open Access Repositories (OpenDOAR)](https://v2.sherpa.ac.uk/view/repository_by_country/Switzerland.software_name.html). DSpace, EPrints und invenio haben die meisten Einträge. Das zeigt auch die Schweiz-Übersicht sehr klar. 
 ![ArchivesSpace](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/software_plattforms_switzerland.png?raw=true)
 
@@ -24,7 +24,7 @@ Ich fand diese Beispiele:
 
 Dieser Einblick, also welche Uni, Bibliothek usw. welche Software verwendet, hilft mir jeweils etwas besser merken zu können. So kann ich einen Bezug zwischen einer bestehenden Software und der tatsächlichen Verwendung auf dem Markt erstellen. 
 
-## Übung mit DSpace im Unterricht
+### Übung mit DSpace im Unterricht
 Die Einstellung der Rechte bei der Übung in DSpace verstand ich auf Anhieb nicht. Enstprechend hatte ich keine vergeben. Nach dem Hinweis des Dozierenden hatte ich die Rechte angepasst, aber offenbar zu stark eingegrenzt. Mein Beispiel war jenes mit der Botanik. Ich sah dann erst später, dass ich die Rechte nur der Rolle "Collection Administrator" gegeben hatte. Daher konnte der Dozent meine Collection nicht bearbeiten. Entschuldigung an dieser Stelle für die Verwirrung. Da wir uns für die Übung aber als Collection Administrator einloggen mussten, konnte ich problemlos für meine _"Forschungsdaten zur Botanik"_ ein Dokument erstellen und hochladen. Es dauerte etwas bis den Ort gefunden hatte, wo man eingereichte Dokumente "submitten" konnte. Dies klappte aber letztendlich und mein Dokument, ein  "Dummy PDF", war schliesslich eingereicht. 
 
 Wie schon bei ArchivesSpace und AtoM sind mir die Kategorien nicht ganz klar oder verwirren mich. Bei DSpace lautet die Hierarchive: Community > Collection > einzelne Dokumente. Ich fand die Benennung in DSpace etwas speziell, aber mit der Übung hab ich es am Ende immerhin verstanden. 
