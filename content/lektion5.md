@@ -1,8 +1,8 @@
-# Lerneinheit 5 - Funktion und Aufbau von Bibliothekssystemen 2
+## Lerneinheit 5 - Funktion und Aufbau von Bibliothekssystemen 2
 
 Es geht weiter mit Teil 2 von "Funktion und Aufbau von Bibliothekssystemen". Siehe: [das gemeinsame Dokument](https://pad.gwdg.de/NT85lsv_QIWjmPs18rQM_g). 
 
-## Koha-Fortsetzung und erneute Hinweise zur Usability
+### Koha-Fortsetzung und erneute Hinweise zur Usability
 Wie bereits bei der letzten Nutzung mit Koha, stiessen mir wieder Usability Probleme ins Auge. Bei der einen Aufgabe, in welchem wir ein bestimmtes Medium aussuchen konnten, erschien die unten gezeigte Übersicht. Der **"Aktionen"-Button** in der Zeile rechts suggiert, dass dort geklickt werden sollte für die Auswahl. Ich klickte zufällig zu früh und sah, dass man eigentlich irgendwo in die Zeile klicken konnte und so bereits die Aktion ausgewählt werden konnte. Schlimm ist dies zwar nicht, aber es irritiert, da dies eigentlich nur beim Button geschehen sollte. 
 
 * Menü auf dem Aktionen-Button:  
@@ -17,7 +17,7 @@ Ich suchte nach Angaben um die URL anzupassen, jedoch ohne Erfolg. Die einzelnen
 
 Eine Kollegin schrieb in unsere Chatgruppe. Wie sich herausstellte, klappte es bei keinem von uns - das war beruhigend. Durch die Erklärung im Unterricht wurde der Knoten gelöst und ich fand mein Medium schliesslich doch noch. 
 
-## Bibliothekssysteme auf dem Markt
+### Bibliothekssysteme auf dem Markt
 Den abschliessenden Unterrichtsblock zu den Bibliothekssystemen auf dem Markt fand ich im Grundsatz sehr interessant. Das "Erfassen" der gesamten Thematik finde ich nicht ganz einfach, da es Teil einer Welt ist, mit der ich fast gar nichts zu tun habe. Von den Namen her sind mir einige aufgrund des Studiums mittlerweile geläufig (Aleph, Koha) oder auch die Firmen, die dahinter stecken (Ex Libris, EBSCO, usw). Alles weitere, und damit auch die Entwicklungen wie der Weg hin zu Monopolstellungen, gingen an mir vorbei. 
 
 Das im Unterricht erwähnte Journal von Renke Siems bietet hier eine interessante Vertiefung in das Thema dar und half mir, als Laien, zumindest ein bisschen mehr in diese Welt einzutauchen. So erwähnt Siems:  
