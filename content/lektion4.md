@@ -1,14 +1,14 @@
-## Lerneinheit 4 - Funktion und Aufbau von Bibliothekssystemen 1
+# Lerneinheit 4 - Funktion und Aufbau von Bibliothekssystemen 1
 
 Die heutige Lektion widmete sich der Funktion und dem Aufbau von Bibliothekssystemen. Dazu wieder ein [gemeinsames Dokument](https://pad.gwdg.de/glYuuHwsS6aokIat19Kxpg#).
 
-### Metadatenstandards in Bibliotheken
+# Metadatenstandards in Bibliotheken
 Das letzte Mal, als wir im Studium über die beiden Metadaten-Standards MARC21 und DublinCore gesprochen haben, ist schon eine ganze Weile her. Zudem glaube ich, dass es thematisch auch nur sehr oberflächlich gestreift wurde. Deswegen und auch weil ich keinerlei Bibliotheks-Background besitze, hatte ich kein Wissen über MARC21.
 
 Wir betrachteten die Daten in MARC21 und DublinCore und verglichen sie. Ich fand es recht beeindruckend, wie gut lesbar die Daten von DublinCore waren und wie schlecht bzw. mühsam es im Vergleich bei MARC21 war. In der gemeinsamen Übung war aber auch zu sehen, dass in DublinCore dafür auch einige Angaben oder Elemente fehlten, die in MARC21 vorhanden waren. 
 ![Vergleiche MARC21 und DublinCore](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Marc21_DublinCore.png?raw=true)
 
-### Koha
+# Koha
 Bei Koha handelt es sich um eine Open Source Software, die in Bibliotheken eingesetzt wird. In der Erwartung, dass es sich beim Namen um ein Akronym handelte, wurde ich auf der [Wikipedia-Seite zu Koha](https://de.wikipedia.org/wiki/Koha_(Bibliothekssoftware)) eines Besseren belehrt. Der Name der in Neuseeland entwickelten Software stammt vom Māori-Wort _„Koha“_. Gemäss [Wikipedia](https://de.wikipedia.org/wiki/Koha_(Bibliothekssoftware)): "In der Kultur der Māori ist das ein Geschenk, bei dem man ein Gegengeschenk erwartet." 
 
 Bevor wir Koha ausprobierten, warfen wir unter anderem auch einen Blick auf die Statistiken. Im Laufe des Studiums behandelten wir zwar schon öfters Open-Source-Software, doch nie (oder ich mag mich nicht erinnern), prüften wir Details rund eine solche Software wie heute. Ich lernte dabei, dass man bei einer Open-Source-Software gewisse Details überprüfen kann, um beurteilen zu können wie "gesund" ein solches Projekt ist. Nur ungern würde man sich ja in einer Institution für eine Software entscheiden, welche nach einigen Jahren keine neuen Releases mehr macht, keine konstante Entwicklung hat oder kaum Entwickler:innen hat. All jene Punkte sind bei Koha aber positiv und das Projekt läuft sehr zuverlässig seit 1999. 
@@ -24,7 +24,7 @@ Ein weiterer Usability-Aspekt: die Seite arbeitet mit diversen Tabellenformaten 
 ![Zu grosse Tabelle](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Koha_Breite_Tabelle.png?raw=true)
 
 
-### Was nehme ich von heute mit?
+# Was nehme ich von heute mit?
 - Refresher zu MARC21 und DublinCore
 - Zuverlässigkeit / Gesundheit von Open-Source-Software prüfen und hinterfragen
 - Ausprobieren einer Bibliothekssoftware
