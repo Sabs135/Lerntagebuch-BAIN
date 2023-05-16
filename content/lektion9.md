@@ -9,12 +9,12 @@ Ich wollte trotzdem etwas darüber erfahren, was Solr nun genau ausmacht oder vo
 * 2019: [https://www.ionos.de/digitalguide/server/konfiguration/elasticsearch/](https://www.ionos.de/digitalguide/server/konfiguration/elasticsearch/)
 * 2020: [https://serverguy.com/comparison/solr-vs-elasticsearch/](https://serverguy.com/comparison/solr-vs-elasticsearch/)
 * 2022: [https://sematext.com/blog/solr-vs-elasticsearch-differences/#1-apache-solr-vs-elasticsearch-engine-performance-scalability-benchmark](https://sematext.com/blog/solr-vs-elasticsearch-differences/#1-apache-solr-vs-elasticsearch-engine-performance-scalability-benchmark)
-* 2023: [https://db-engines.com/de/system/Elasticsearch%3BSolr](https://db-engines.com/en/system/Elasticsearch%3BMySQL%3BSolr) 
+* 2023: [https://db-engines.com/de/system/Elasticsearch%3BSolr](https://db-engines.com/en/system/Elasticsearch%3BMySQL%3BSolr)  
 Der letzte Link zeigt auch noch einen Vergleich mit MySQL, welche ebenfalls als Suchmaschine in Form einer Datenbank aufgeführt wird. Im Detail werde ich hier aber nicht auf MySQL eingehen. 
 
 Zurück zu Elasticsearch und Solr:
 Elasticsearch ist moderner, kostenlos (aber nicht Open Source) und mittlerweile am beliebtesten. Solr unterstützt mehr Programmiersprachen, hat eine bessere Precision und ist Open Source. Dies ist nur kleine Auswahl von Ergebnissen, welche sich auf all den verschiedenen Seiten finden lässt. Es gäbe noch viele weitere Punkte, aber ich lasse die Aufzählung mal kurz. 
-Nachfolgend ist noch eine Grafik zu sehen, welche die Aussage, dass Elasticsearch am beliebtesten sei, noch zusätzlich unterstützt.
+Nachfolgend ist noch eine Grafik zu sehen, welche die Aussage, dass Elasticsearch am beliebtesten sei, noch zusätzlich unterstützt.  
 ![Beliebte Suchmaschinen](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/beliebtheit.png?raw=true)  
 (Bildquelle: Kuć, 2022)
 
