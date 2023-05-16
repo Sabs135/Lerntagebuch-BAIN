@@ -20,7 +20,7 @@ In ArchivesSpace konnten wir wieder etwas üben. Es erinnerte mich stark an die 
 Bei meiner ersten Akte klappte das erstellen als Child nicht. Wobei es nicht am System lag, sondern an mir (oder an der späten Stunde). Ich sah den "Add Child" Button nicht. Ich erstellte danach jedoch drei Akten erfolgreich als Child. Nachdem ich die Akten nochmals mit der "Publish"-Checkbox gespeichert hatte, war ich zufrieden mit dem Ergebnis. Im Unterricht wurde gerade auch auf mein Beispiel geklickt und das Fazit war, dass es ganz gut aussieht. Somit scheine ich es wohl richtig gemacht zu haben.  
 ![ArchivesSpace](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/ArchivesSpace.png?raw=true)
   
-**Quellen:**
+**Quellen:**  
 International Council on Archives (ICA). (2021). _Records in Contexts - Conceptual Model._ Verfügbar unter: [https://www.ica.org/en/records-in-contexts-conceptual-model](https://www.ica.org/en/records-in-contexts-conceptual-model)  
 Nielse, J. (2020). 10 Usability Heuristics for User Interface Design. Verfügbar unter: [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
