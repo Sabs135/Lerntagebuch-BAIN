@@ -11,7 +11,7 @@
 [Lerneinheit 8: Metadaten modellieren und Schnittstellen nutzen 2](content/lektion8.md)  
 [Lerneinheit 9: Suchmaschinen und Discovery-Systeme](content/lektion9.md)  
 [Lerneinheit 10: Linked Data](content/lektion10.md)  
-[Abschluss](content/abschlussartikel.md)  
+[Abschluss](content/abschluss.md)  
   
   
 _Dieses Lerntagebuch wird geführt von Sabrina Gasser_
