@@ -11,10 +11,10 @@ Ich wollte trotzdem etwas darüber erfahren, was Solr nun genau ausmacht oder vo
 * 2022: [https://sematext.com/blog/solr-vs-elasticsearch-differences/#1-apache-solr-vs-elasticsearch-engine-performance-scalability-benchmark](https://sematext.com/blog/solr-vs-elasticsearch-differences/#1-apache-solr-vs-elasticsearch-engine-performance-scalability-benchmark)
 * 2023: [https://db-engines.com/de/system/Elasticsearch%3BSolr](https://db-engines.com/de/system/Elasticsearch%3BSolr)
 
-![Beliebte Suchmaschinen](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/beliebtheit.png?raw=true)
-(Kuć, 2022)
-
 Elasticsearch ist moderner, kostenlos (aber nicht Open Source) und mittlerweile am beliebtesten. Solr unterstüt mehr Programmiersprachen, habe eine bessere Precision und ist Open Source. Dies ist nur kleine Auswahl. Es gäbe noch viele weitere Möglichkeiten, die sich aufzählen lassen würden. 
+Nachfolgend ist noch eine Grafik zu sehen, welche die Aussage, dass Elasticsearch am beliebtesten sei, noch zusätzlich unterstützt.
+![Beliebte Suchmaschinen](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/beliebtheit.png?raw=true)  
+(Bildquelle: Kuć, 2022)
 
 
 In der Übung zum Vergleich von Solr und VuFind war es zuerst etwas mühsam die Daten zu vergleichen (oder es ging nur mir so). Als die Übung dann schon fertig war und ich einen Screenshot machen wollte, merkte ich dann noch, dass Solr nicht responsive ist. Wenn ich es richtig verstanden habe, handelt es sich bei Solr ja um ein Backendsystem bzw. ist für die Technik. Daher ist Responsive Design nicht wichtig und auch sonst ist es nicht relevant wie das UI aussieht. Daher fange ich gar nicht erst damit an. 
