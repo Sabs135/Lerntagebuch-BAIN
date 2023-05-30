@@ -25,12 +25,11 @@ Ich bin mir nicht hundertprozentig sicher, ob ich alles korrekt nachgemacht hatt
 
 **Quellen:**
 
-Experian. (n.d.). _What is Data Reconciliation?_https://www.experian.co.uk/business/glossary/data-reconciliation/
+Experian. (n.d.). _What is Data Reconciliation?_[https://www.experian.co.uk/business/glossary/data-reconciliation/](https://www.experian.co.uk/business/glossary/data-reconciliation/)
 
 Jackson, S. (2023). _Chat GPT: Diese Anleitung zeigt euch Schritt für Schritt, wie ihr den Chatbot von OpenAI nutzen könnt. Business Insider._
 [https://www.businessinsider.de/wirtschaft/chat-gpt-diese-anleitung-zeigt-euch-schritt-fuer-schritt-wie-ihr-den-chatbot-von-openai-nutzen-koennt-b/](https://www.businessinsider.de/wirtschaft/chat-gpt-diese-anleitung-zeigt-euch-schritt-fuer-schritt-wie-ihr-den-chatbot-von-openai-nutzen-koennt-b/)
 
-W3C Community Group. (2023). Reconciliation Service API v0.1. A protocol for data matching on the Web. Final Community Group Report 21 March 2023 
-https://www.w3.org/community/reports/reconciliation/CG-FINAL-specs-0.1-20230321/
+W3C Community Group. (2023). _Reconciliation Service API v0.1. A protocol for data matching on the Web. Final Community Group Report 21 March 2023._ [https://www.w3.org/community/reports/reconciliation/CG-FINAL-specs-0.1-20230321/](https://www.w3.org/community/reports/reconciliation/CG-FINAL-specs-0.1-20230321/)
 
 [nach oben](#lerneinheit-8---linked-data)
