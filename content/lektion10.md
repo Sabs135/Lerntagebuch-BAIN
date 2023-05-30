@@ -12,12 +12,25 @@ Im Lerntagebuch:
 MARC21 , BIBFRAME vor und Nachteile 
 
 ### Metadaten anreichern mit OpenRefine und Wikidata
- 
+Zum Abschluss des Unterrichts in BAIN nutzen wir erneut OpenRefine. Dies hatten wir bereits in der [Lektion 3](https://sabs135.github.io/Lerntagebuch-BAIN/content/lektion3.html) und [Lektion 8](https://sabs135.github.io/Lerntagebuch-BAIN/content/lektion8.html) genutzt. Im heutigen Beispiel wollten wir bestehende Daten mit Daten aus Wikidate verküpfen. 
+Reconciliation war dabei ein häufiger Begriff. Da mir dieser bisher noch nicht geläufig war, recherchierte ich erneut dazu. 
+
+Dieser ist insbesondere bei der Datenmigration wichtig, da es sich um einen Verifikationsprozess handelt. Im Verlauf von Datenmigrationen besteht die Möglichkeit, dass es zu Inkonsistenzen oder Fehler beim Mapping kommt und durch die Reconciliation werden allfällige Fehler aufgedeckt bzw. dadurch eine Datenkonsistenz sichergestellt (Experian, n.d.). In der Einleitung des entwickelten Entwurfs für einen Standard vom  W3C Community Group steht dazu: 
+> Integrating data from sources which do not share common unique identifiers often requires matching (or reconciling, merging) records which refer to the same entities. 	The promises of the Linked Open Data movement, the ability to mix up data from different publishers expressed in a common language (such as RDF) rely on being able to identify identities across services. (...)
+
+![Reconcile Daten](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/openrefine_reconcile.png?raw=true)
+![Vergleich der Anfangsdaten und Enddaten](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/openrefine_vrgl_anfang_ende.png?raw=true)
+
 
 
 **Quellen:**
 
-Jackson, S. (2023, Februar 16). _Chat GPT: Diese Anleitung zeigt euch Schritt für Schritt, wie ihr den Chatbot von OpenAI nutzen könnt. Business Insider._
-[(https://www.businessinsider.de/wirtschaft/chat-gpt-diese-anleitung-zeigt-euch-schritt-fuer-schritt-wie-ihr-den-chatbot-von-openai-nutzen-koennt-b/](https://www.businessinsider.de/wirtschaft/chat-gpt-diese-anleitung-zeigt-euch-schritt-fuer-schritt-wie-ihr-den-chatbot-von-openai-nutzen-koennt-b/)
+Experian. (n.d.). _What is Data Reconciliation?_https://www.experian.co.uk/business/glossary/data-reconciliation/
+
+Jackson, S. (2023). _Chat GPT: Diese Anleitung zeigt euch Schritt für Schritt, wie ihr den Chatbot von OpenAI nutzen könnt. Business Insider._
+[https://www.businessinsider.de/wirtschaft/chat-gpt-diese-anleitung-zeigt-euch-schritt-fuer-schritt-wie-ihr-den-chatbot-von-openai-nutzen-koennt-b/](https://www.businessinsider.de/wirtschaft/chat-gpt-diese-anleitung-zeigt-euch-schritt-fuer-schritt-wie-ihr-den-chatbot-von-openai-nutzen-koennt-b/)
+
+W3C Community Group. (2023). Reconciliation Service API v0.1. A protocol for data matching on the Web. Final Community Group Report 21 March 2023 
+https://www.w3.org/community/reports/reconciliation/CG-FINAL-specs-0.1-20230321/
 
 [nach oben](#lerneinheit-8---linked-data)
