@@ -29,7 +29,7 @@ Mir fiel das fehlende Responsive Design nur auf, da ich die beiden Fenster nicht
 ### Discovery Systeme
 Wir warfen am Ende nur noch einen kurzen Blick auf Discovery Systeme. Dabei fanden auch Alma oder Swisscovery kurz Erwähnung.
 
-**Quellen:**
+**Quellen:**  
 Rafal Kuć, R. (2022, January 7). Solr vs Elasticsearch: Performance Differences & More. How to Decide Which One Is Best for You. [https://sematext.com/blog/solr-vs-elasticsearch-differences/#comparing-solr-vs-elasticsearch-what-are-the-main-differences](https://sematext.com/blog/solr-vs-elasticsearch-differences/#comparing-solr-vs-elasticsearch-what-are-the-main-differences)  
 
 [nach oben](#lerneinheit-9---suchmaschinen-und-discovery-systeme)
