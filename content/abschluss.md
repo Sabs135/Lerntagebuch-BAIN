@@ -2,7 +2,7 @@
 Der Abschlussartikel setzt sich mit dieser Frage auseinander: Was habe ich (nicht) gelernt? Schauen wir also zurück.
 
 ### eine kleine Retro
-Hinter mir liegen 10 Lektionen in Bibliotheks- und Archivinformatik. In unterschiedlichen Kontexten fielen immer wieder altbekannte Begriffe wie Alma, Metadaten, Ex Libris, etc. Wenn ich hier aber _altbekannt_ schreibe, bedeutet dies nicht, dass ich mich in diesen Bereichen sehr gut auskenne, sondern, dass ich sie im Verlauf des Studiums an der FHGR bereits mehrmals gehört hatte. Trotzdem halfen sie mir, mich etwas mehr im Modul zurecht zu finden. Ich picke hier in der Retro jene Details raus, welche für mich persönlich am interessantesten waren.
+Hinter mir liegen 10 Lektionen in Bibliotheks- und Archivinformatik. Ich picke hier in der Retro jene Details raus, welche für mich persönlich am interessantesten waren.
 
 Die Einblicke mit Systemen wie **Koha** in [Lektion 4](https://sabs135.github.io/Lerntagebuch-BAIN/content/lektion4.html) und [Lektion 5](https://sabs135.github.io/Lerntagebuch-BAIN/content/lektion5.html) oder **ArchiveSpace** in [Lektion 6](https://sabs135.github.io/Lerntagebuch-BAIN/content/lektion6.html) haben mir sehr dabei geholfen in etwa zu verstehen wie ein Bibliotheks- oder Archivsystem aussehen könnte. Dies kann ich auf jeden Fall als grosses Learning für mich mitnehmen. 
 
