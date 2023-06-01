@@ -26,6 +26,8 @@ Als die Übung dann schon fertig war und ich einen Screenshot machen wollte, mer
 Mir fiel das fehlende Responsive Design nur auf, da ich die beiden Fenster nicht schön nebeneinander legen konnte für die Erstellung eines Screenshots. Bei Solr überlappte der Ergebnistext mit der Suchmaske (siehe Bild). Ich hatte hier ein paar Daten angeschaut und sie zum Vergleich angestrichen. Jedoch war ich mir nicht immer sicher, ob ich nun das richtige Feld in Solr markiert hatte. Nur schon allein den Titel "The Journal of Psychology" ist in Solr an diversen Stellen zu finden (glaube 4x). Ich markierte einfach jenen Eintrag mit "title:"The Journal of psychology", da dies für mich am logischsten schien. 
 ![Vergleich Solr und VuFind](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/vrgl_solr_vufind.png?raw=true)  
 
+### Discovery Systeme
+Wir warfen am Ende nur noch einen kurzen Blick auf Discovery Systeme. Dabei fanden auch Alma oder Swisscovery kurz Erwähnung.
 
 **Quellen:**
 Rafal Kuć, R. (2022, January 7). Solr vs Elasticsearch: Performance Differences & More. How to Decide Which One Is Best for You. [https://sematext.com/blog/solr-vs-elasticsearch-differences/#comparing-solr-vs-elasticsearch-what-are-the-main-differences](https://sematext.com/blog/solr-vs-elasticsearch-differences/#comparing-solr-vs-elasticsearch-what-are-the-main-differences)  
