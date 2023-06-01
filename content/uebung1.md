@@ -1,13 +1,13 @@
-# Übung 1 - AtoM Demo als Vergleich zu ArchivesSpace
+## Übung 1 - AtoM Demo als Vergleich zu ArchivesSpace
 
 In dieser Übung sollten wir das kennengelernte ArchivesSpace mit [AtoM Online Demo](https://demo.accesstomemory.org) vergleichen.
 
-## Erster Eindruck
-Nach dem Login fiel mir sogleich auf, dass die Navigationsleiste zusätzliche Icons erhalten hatte. Einige Icons fand ich gewöhnungsbedürftig (Zahnräder sonst eher für "Einstellungen"). Andere wiederum finde ich eigenartig in einer Navigationsleiste (Clipboard). Aus rein optischer Sicht sticht keines der beiden Tools heraus. Rein subjektiv, finde ich das Logo von AtoM schöner und schlichter als das etwas altbackene ArchiveSpace.
+### Erster Eindruck
+Nach dem Login fiel mir sogleich auf, dass die Navigationsleiste zusätzliche Icons erhalten hatte. Einige Icons fand ich gewöhnungsbedürftig (Zahnräder sonst eher für "Einstellungen"). Andere wiederum finde ich eigenartig in einer Navigationsleiste (Clipboard). Aus rein optischer Sicht sticht keines der beiden Tools heraus. Rein subjektiv, finde ich das Logo von AtoM schöner und schlichter als das etwas altbackene ArchiveSpace aus [Lektion 6](https://sabs135.github.io/Lerntagebuch-BAIN/content/lektion6.html).
 
 ![Startseite atom](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/atom_start.png?raw=true)
 
-## Die Erstellung eines Records
+### Die Erstellung eines Records
 Es war gut ersichtlich, dass über das + Zeichen ein neues Objekt erstellt werden konnte. Bei ArchivesSpace mit dem Text "Create" war dies auch klar. 
 Bei beiden hatte ich aber Mühe die passende Auswahl darunter zu treffen. Ich entschied mich hier für "Accession record".  
 ![Auswahl bei Add](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/atom_add.png?raw=true)
@@ -20,7 +20,7 @@ Ich glaube das Formular bei ArchivesSpace war detailreicher und grösser. Die Un
 
 Die Felder in AtoM finde ich schlechter als bei ArchivesSpace. Was soll ich in die grossen Fliesstextfelder einfüllen und wie detailliert? Hier wird aber von der _"Source of aquisition or transfer, and date and method of aquisition"_ gefragt. Warum gibt es hier nicht einfach pro Angabe ein Eingabefeld? Dasselbe bei den restlichen Feldern. Es lässt mich irgendetwas speichern (was ich auch gemacht habe), ohne dass ich wirklich korrekte oder vollständige Daten eingegeben habe. Hier wäre eine bessere Steuerung durch das Formular besser (z.B. Datumfeld für Datumseingaben). Diese Steuerung hätte zum Ziel, dass so dass einerseits weniger Fehleingaben durch Nutzende entstehen und andererseits konsistentere Angaben resultieren.
 
-## Abschliessend
+### Abschliessend
 Dass AtoM zudem immer zur vollen Stunde alle Daten löscht, fand ich etwas nervig. So muss man die Erstellung vorab planen.
 
 [nach oben](#übung-1---atom-demo-als-vergleich-zu-archivesspace)
