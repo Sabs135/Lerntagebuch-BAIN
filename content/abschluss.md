@@ -1,10 +1,12 @@
 ## Abschlussartikel
 
-### Titel
+Der Abschlussartikel setzt sich mit der Frage auseinander: Was habe ich (nicht) gelernt?
+
+
 
 ### Titel
  
-![Name Foto](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/uebung_OpenRefine.png?raw=true)
+
 
 
 **Quellen:**
