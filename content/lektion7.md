@@ -23,7 +23,7 @@ Ich fand diese Beispiele:
 Dieser Einblick, also welche Uni, Bibliothek usw. welche Software verwendet, hilft mir jeweils etwas besser merken zu können. So kann ich einen Bezug zwischen einer bestehenden Software und der tatsächlichen Verwendung auf dem Markt erstellen. 
 
 ### Übung mit DSpace im Unterricht
-Es lohnt sich auch ein erneuter Blick auf das [Schaubild aus Lektion 1 & 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/content/lektion1-2.md). Die Grafik führte mir nochmals vor Augen, was wir bereits kennengelernt haben und was noch folgt, wie beispielsweise heute: DSpace. Hier nochmals die Auflistung aus Lektion 1 & 2 zur besseren Einordnung:
+Es lohnt sich auch ein erneuter Blick auf das [Schaubild aus Lektion 1 & 2](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/content/lektion1-2.md). Die Grafik zeigte mir, was wir bereits kennengelernt haben und was noch folgt, wie bspw. heute: DSpace. Nochmals die Auflistung aus Lektion 1 & 2 zur besseren Einordnung:
 
 * Koha: für Bibliotheken
 * ArchiveSpace: für Archive
