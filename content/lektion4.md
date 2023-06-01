@@ -1,11 +1,11 @@
 ## Lerneinheit 4 - Funktion und Aufbau von Bibliothekssystemen 1
 
-Die heutige Lektion widmete sich der Funktion und dem Aufbau von Bibliothekssystemen. Dazu wieder ein [gemeinsames Dokument](https://pad.gwdg.de/glYuuHwsS6aokIat19Kxpg#).
+Die heutige Lektion widmete sich der Funktion und dem Aufbau von Bibliothekssystemen. Dazu das [gemeinsame Dokument](https://pad.gwdg.de/glYuuHwsS6aokIat19Kxpg#).
 
 ### Metadatenstandards in Bibliotheken
-Das letzte Mal, als wir im Studium über die beiden Metadaten-Standards MARC21 und DublinCore gesprochen haben, ist schon eine ganze Weile her. Zudem glaube ich, dass es thematisch auch nur sehr oberflächlich gestreift wurde. Deswegen und auch weil ich keinerlei Bibliotheks-Background besitze, hatte ich kein Wissen über MARC21.
+Das letzte Mal, als wir im Studium über die beiden Metadaten-Standards MARC21 und DublinCore gesprochen haben, ist schon eine ganze Weile her. Deswegen und auch weil ich keinerlei Bibliotheks-Background besitze, hatte ich kaum Wissen über MARC21.
 
-Wir betrachteten die Daten in MARC21 und DublinCore und verglichen sie. Ich fand es recht beeindruckend, wie gut lesbar die Daten von DublinCore waren und wie schlecht bzw. mühsam es im Vergleich bei MARC21 war. In der gemeinsamen Übung war aber auch zu sehen, dass in DublinCore dafür auch einige Angaben oder Elemente fehlten, die in MARC21 vorhanden waren. 
+MARC21 und DublinCore sind Metadatenstandards. Mit Metadaten werden Inhalte von bspw. Büchern beschrieben (Name, ISBN, Seitenzahl use). Wir betrachteten die Daten in MARC21 und DublinCore und verglichen sie. Ich fand es recht beeindruckend, wie gut lesbar die Daten von DublinCore waren und wie schlecht bzw. mühsam es bei MARC21 war. In der gemeinsamen Übung war aber auch zu sehen, dass in DublinCore dafür auch einige Angaben oder Elemente fehlten, die in MARC21 vorhanden waren. 
 ![Vergleiche MARC21 und DublinCore](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/Marc21_DublinCore.png?raw=true)
 
 ### Koha
