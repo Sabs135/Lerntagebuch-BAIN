@@ -18,13 +18,12 @@ Ich suchte nach Angaben um die URL anzupassen, jedoch ohne Erfolg. Die einzelnen
 Eine Kollegin schrieb in unsere Chatgruppe. Wie sich herausstellte, klappte es bei keinem von uns - das war beruhigend. Durch die Erklärung im Unterricht wurde der Knoten gelöst und ich fand mein Medium schliesslich doch noch. 
 
 ### Bibliothekssysteme auf dem Markt
-Den abschliessenden Unterrichtsblock zu den Bibliothekssystemen auf dem Markt fand ich im Grundsatz sehr interessant. Das "Erfassen" der gesamten Thematik finde ich nicht ganz einfach, da es Teil einer Welt ist, mit der ich fast gar nichts zu tun habe. Von den Namen her sind mir einige aufgrund des Studiums mittlerweile geläufig (Aleph, Koha) oder auch die Firmen, die dahinter stecken (Ex Libris, EBSCO, usw). Alles weitere, und damit auch die Entwicklungen wie der Weg hin zu Monopolstellungen, gingen an mir vorbei. 
+Den abschliessenden Unterrichtsblock zu den Bibliothekssystemen auf dem Markt fand ich im Grundsatz sehr interessant. Von den Namen her sind mir einige aufgrund des Studiums mittlerweile geläufig (Aleph, Koha) oder auch die Firmen, die dahinter stecken (Ex Libris, EBSCO, usw). Alles weitere, und damit auch die Entwicklungen wie der Weg hin zu Monopolstellungen, gingen an mir vorbei. 
 
 Das im Unterricht erwähnte Journal von Renke Siems bietet hier eine interessante Vertiefung in das Thema dar und half mir, als Laien, zumindest ein bisschen mehr in diese Welt einzutauchen. So erwähnt Siems:  
 >"Bibliothekssysteme sind aus der Sicht von Data Analytics hochinteressante Objekte, weil auch in ihnen echte Daten echter Menschen stecken – nämlich individualisierte Personendaten aller Nutzer*innen, verbunden mit ihrem Mediennutzungsverhalten und zwar auch dessen Teil, der sich von außen nicht messen lässt (Ausleihe), sowie den darauf gründenden Finanzierungsströmen der Bibliothek." (Siems, 2022, S. 9).
 
 Hier stellt sich die Frage, ob Nutzende dieser Datensammlung, welche durch solche Systeme betrieben wird, überhaupt entkommen können. Gemäss Siems ist bei den grossen Anbietern bereits eine "Hinwendung zu einem Data-Analytics-Geschäftsmodell" (Siems, 2022, S. 17) zu sehen. Es bleibt also spannend wie sich dies auch in Zukunft entwickeln wird. 
-
 
 **Quellen:**  
 Nielsen, J. (2020). _10 Usability Heuristics for User Interface Design._ [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
