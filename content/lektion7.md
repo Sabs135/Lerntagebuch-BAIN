@@ -28,6 +28,7 @@ Es lohnt sich auch ein erneuter Blick auf das [Schaubild aus Lektion 1 & 2](http
 * Koha: für Bibliotheken
 * ArchiveSpace: für Archive
 * DSpace: für Publikationsdaten (Repository für Online-Dokumente)  -> und hier befinden wir uns heute. 
+
 ![Ansicht DSpace](https://github.com/Sabs135/Lerntagebuch-BAIN/blob/main/img/dspace.png?raw=true)
 
 In DSpace mussten wir in der Übung (nach Erstellung des Repositorys) Rechte vergeben, jedoch verstand ich diese Einstellung auf Anhieb nicht. Enstprechend hatte ich keine vergeben. Nach dem Hinweis des Dozierenden hatte ich die Rechte zwar angepasst, jedoch zu stark eingegrenzt. Mein Beispiel war jenes mit der Botanik. Ich sah erst später, dass ich die Rechte nur der Rolle "Collection Administrator" gegeben hatte. Daher konnte der Dozent meine Collection nicht bearbeiten. Entschuldigung an dieser Stelle für die Verwirrung. Da wir uns für die Übung aber als Collection Administrator einloggen mussten, konnte ich problemlos für meine _"Forschungsdaten zur Botanik"_ ein Dokument erstellen und hochladen. Es dauerte etwas bis den Ort gefunden hatte, wo man eingereichte Dokumente "submitten" konnte. Dies klappte aber letztendlich und mein Dokument, ein  "Dummy PDF", war schliesslich eingereicht. 
