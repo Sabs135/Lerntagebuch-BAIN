@@ -2,8 +2,8 @@
 
 Heute stand eine neue Lerneinheit auf dem Plan und dazu gab es ein neues [gemeinsames Dokument](https://pad.gwdg.de/tql9ErMcQ1yd9FqMOj7TVw#). Das Thema des heutigen Tages war OpenRefine:
 
-    “A free, open source, powerful tool for working with messy data” (gemäss: [OpenRefine](https://openrefine.org/))
-
+    “A free, open source, powerful tool for working with messy data” 
+(Quelle: [OpenRefine](https://openrefine.org/) )
 
 ### Wie ging das nochmals?
 Als ich nun mit dem Schreiben des Texts beginnen wollte, merkte ich, dass ich bei einigen Markdown Befehlen wieder unsicher bin. Fett, Kursiv und Titel wusste ich noch, aber wie geht das schon wieder mit der Aufzählung oder Bildern? Ich musste mir also nochmals die Seite zur [Basic Syntax des Markdown Guides](https://www.markdownguide.org/basic-syntax/), die ich mir letztes Mal rausgesucht habe, zu Herzen nehmen, bevor ich hier Formatierungen vornehmen konnte. Kompliziert ist das Ganze nicht, aber es braucht eine gewisse Wiederholung bis die diversen Befehle oder Eingabemöglichkeiten sitzen. 
