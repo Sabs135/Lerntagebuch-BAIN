@@ -1,4 +1,4 @@
-## Lerneinheit 3 - Metadaten modellieren und Schnittstellen nutzen 1 OpenRefine
+## Lerneinheit 3 - Metadaten modellieren und Schnittstellen nutzen - OpenRefine
 
 Heute stand eine neue Lerneinheit auf dem Plan und dazu gab es ein neues [gemeinsames Dokument](https://pad.gwdg.de/tql9ErMcQ1yd9FqMOj7TVw#). Das Thema des heutigen Tages war OpenRefine. 
 
@@ -41,4 +41,4 @@ Zusammengefasst nehme ich aus der heutigen Lektion als Learning mit:
 * [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) : eine coole Seite mit Lehrmaterialen zu vielen unterschiedlichen Themen.
 * das Kennenlernen von dem für mich komplett neuen OpenRefine.
 
-[nach oben](#lerneinheit-3---metadaten-modellieren-und-schnittstellen-nutzen-1-openrefine)
+[nach oben](#lerneinheit-3---metadaten-modellieren-und-schnittstellen-nutzen---openrefine)
