@@ -10,6 +10,7 @@ Ich wollte trotzdem etwas darüber erfahren, was Solr nun genau ausmacht oder vo
 * 2020: [Solr Vs Elasticsearch: Which Search Engine is Better?](https://serverguy.com/comparison/solr-vs-elasticsearch/)
 * 2022: [Solr vs Elasticsearch: Performance Differences & More. How to Decide Which One Is Best for You](https://sematext.com/blog/solr-vs-elasticsearch-differences/#1-apache-solr-vs-elasticsearch-engine-performance-scalability-benchmark)
 * 2023: [System Properties Comparison Elasticsearch vs. MySQL vs. Solr](https://db-engines.com/en/system/Elasticsearch%3BMySQL%3BSolr)  
+
 Der letzte Link zeigt auch noch einen Vergleich mit MySQL, welche ebenfalls als Suchmaschine in Form einer Datenbank aufgeführt wird. Im Detail werde ich hier aber nicht auf MySQL eingehen. 
 
 Zurück zu Elasticsearch und Solr:
