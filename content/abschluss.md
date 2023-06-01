@@ -12,7 +12,7 @@ Die [Lektion 7]([https://sabs135.github.io/Lerntagebuch-BAIN/content/lektion7.ht
 
 ### wo startete ich – wo steh ich jetzt?
 Da ich nie im Archiv- oder Bibliotheksbereich arbeitete und dies auch in Zukunft nicht vorhabe, setzte ich mir keine allzu grossen persönlichen (Lern-)ziele. Zudem war das Fach für mich ein reines Pflichtmodul. In meinem Einführungsartikel hatte ich beschrieben, dass ich aufgrund nicht existierender Erfahrungen keine Erwartungen hatte. Ich erhoffte mir stattdessen:  
-> (...) die bisher noch ein wenig diffusen Bibliotheks- und Archivbegriffe (wie z.B. MARC21 usw.) am Ende des Kurses besser erfassen zu können und die technischen Hintergründe zu verstehen.
+> (...) die bisher noch ein wenig diffusen Bibliotheks- und Archivbegriffe (wie z.B. MARC21 usw.) am Ende des Kurses besser erfassen zu können und die technischen Hintergründe zu verstehen.  
 Ich würde sagen, dass dieses Ziel erreicht wurde. Es ist für mich kein diffuser Begriff mehr und ich kann mir nun etwas viel Konkreteres darunter vorstellen. Ich wollte durch das Modul zudem Github etwas besser kennenlernen. Auch dies ist mir gut gelungen und mittlerweile habe ich mich sehr mit Github angefreundet. Zudem verbesserten haben sich auch meine Markdown-Kenntnisse im Vergleich zur ersten Lektion merklich verbessert (ich muss nicht mehr nachschlagen). 
 
 ### ein Blick in die Zukunft
